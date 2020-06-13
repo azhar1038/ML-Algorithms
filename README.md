@@ -1,5 +1,6 @@
 # ML-Algorithms
-Some general ML algorithms implemented using Python 3 in Jupyter Notebook from scratch and using some libraries.
+Some general ML algorithms implemented using Python 3 in Jupyter Notebook from scratch and using some libraries.  
+For Mathematical concepts and derivations, refer to the first two books mentioned in **Books and E-books**
 ## References
 ### Books and E-books
 * Machine Learning by Tom M. Mitchell
