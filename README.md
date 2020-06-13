@@ -1,6 +1,6 @@
 # ML-Algorithms
 Some general ML algorithms implemented using Python 3 in Jupyter Notebook from scratch and using some libraries.  
-For Mathematical concepts and derivations, refer to the first two books mentioned in **Books and E-books**
+For Mathematical concepts and derivations, refer to the first two books mentioned in **Books and E-books** section.
 ## References
 ### Books and E-books
 * Machine Learning by Tom M. Mitchell
@@ -15,3 +15,4 @@ For Mathematical concepts and derivations, refer to the first two books mentione
 * [medium.com](https://medium.com/)
 * [scikit-learn.org](https://scikit-learn.org/stable/)
 * [docs.python.org](https://docs.python.org/3/)
+* [tensorflow.org](https://www.tensorflow.org/api_docs/python/tf/keras)
